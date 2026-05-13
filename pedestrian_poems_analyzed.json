@@ -1,0 +1,1042 @@
+[
+  {
+    "title": "My Dog Runs Fast",
+    "author": "DogFan22",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "My dog runs fast across the yard,\nHe plays all day, he plays so hard.\nHe chases balls and barks with cheer,\nHe's always happy when I'm near.\n\nHis tail it wags from side to side,\nHe stays with me right by my side.\nI love my dog, he's full of fun,\nMy best friend always number one.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 15,
+      "verb_count": 11,
+      "adj_count": 5,
+      "adv_count": 4,
+      "total_words": 71,
+      "noun_verb_ratio": 1.3636363636363635,
+      "adj_density": 0.07042253521126761,
+      "verb_density": 0.15492957746478872,
+      "adv_density": 0.056338028169014086
+    },
+    "sentiment": {
+      "polarity": 0.36044973544973546,
+      "subjectivity": 0.5252645502645502,
+      "compound": 0.9759,
+      "variance": 0.04963089923469388
+    }
+  },
+  {
+    "title": "Morning Coffee Mood",
+    "author": "CoffeeQueen",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I wake up slow and start my day,\nThen make my coffee right away.\nThe smell is strong, the taste is bold,\nIt warms me up when I feel cold.\n\nI take a sip and feel alive,\nIt helps me wake and helps me thrive.\nA simple cup, but oh so nice,\nIt gives my day a perfect spice.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 11,
+      "verb_count": 12,
+      "adj_count": 10,
+      "adv_count": 4,
+      "total_words": 69,
+      "noun_verb_ratio": 0.9166666666666666,
+      "adj_density": 0.14492753623188406,
+      "verb_density": 0.17391304347826086,
+      "adv_density": 0.057971014492753624
+    },
+    "sentiment": {
+      "polarity": 0.20582010582010582,
+      "subjectivity": 0.6769841269841269,
+      "compound": 0.9576,
+      "variance": 0.0453468679138322
+    }
+  },
+  {
+    "title": "Rain on My Window",
+    "author": "RainyHeart",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The rain taps softly on the glass,\nI watch the gray clouds slowly pass.\nIt makes me feel a little blue,\nBut also calm and quiet too.\n\nI sit inside and sip some tea,\nAnd listen to the melody.\nThe rainy day may feel so long,\nBut still it sings a gentle song.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 11,
+      "verb_count": 8,
+      "adj_count": 8,
+      "adv_count": 7,
+      "total_words": 61,
+      "noun_verb_ratio": 1.375,
+      "adj_density": 0.13114754098360656,
+      "verb_density": 0.13114754098360656,
+      "adv_density": 0.11475409836065574
+    },
+    "sentiment": {
+      "polarity": 0.0078125,
+      "subjectivity": 0.4541666666666667,
+      "compound": 0.7469,
+      "variance": 0.004103393554687501
+    }
+  },
+  {
+    "title": "A Sunny Afternoon",
+    "author": "SunnySmile88",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The sun is shining in the sky,\nThe clouds are slowly drifting by.\nI sit outside and feel the breeze,\nAnd listen to the rustling trees.\n\nThe day is warm, the light is bright,\nEverything just feels so right.\nI smile and watch the hours pass,\nWhile lying on the soft green grass.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 10,
+      "adj_count": 7,
+      "adv_count": 4,
+      "total_words": 62,
+      "noun_verb_ratio": 1.4,
+      "adj_density": 0.11290322580645161,
+      "verb_density": 0.16129032258064516,
+      "adv_density": 0.06451612903225806
+    },
+    "sentiment": {
+      "polarity": 0.2095238095238095,
+      "subjectivity": 0.4261904761904762,
+      "compound": 0.4877,
+      "variance": 0.0808952487244898
+    }
+  },
+  {
+    "title": "My Best Friend",
+    "author": "FriendshipForever",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "We laugh and talk from day to night,\nEverything just feels so right.\nYou stand by me through thick and thin,\nYou're always there through loss and win.\n\nWe share our dreams, we share our fears,\nWe've been together many years.\nA bond so strong, so pure and true,\nI'm so lucky to have you.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 8,
+      "adj_count": 7,
+      "adv_count": 8,
+      "total_words": 68,
+      "noun_verb_ratio": 1.625,
+      "adj_density": 0.10294117647058823,
+      "verb_density": 0.11764705882352941,
+      "adv_density": 0.11764705882352941
+    },
+    "sentiment": {
+      "polarity": 0.25166666666666665,
+      "subjectivity": 0.5577380952380953,
+      "compound": 0.9628,
+      "variance": 0.027953049709467114
+    }
+  },
+  {
+    "title": "Cold Winter Day",
+    "author": "SnowLover21",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The snow falls softly on the ground,\nIt covers all without a sound.\nThe air is cold, the wind is strong,\nBut winter days don't last too long.\n\nI wear my coat and gloves so tight,\nAnd watch the snowflakes fall so light.\nA chilly day, so crisp and clear,\nMy favorite season of the year.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 8,
+      "adj_count": 9,
+      "adv_count": 7,
+      "total_words": 67,
+      "noun_verb_ratio": 1.75,
+      "adj_density": 0.13432835820895522,
+      "verb_density": 0.11940298507462686,
+      "adv_density": 0.1044776119402985
+    },
+    "sentiment": {
+      "polarity": 0.06289682539682541,
+      "subjectivity": 0.5529761904761905,
+      "compound": 0.8734,
+      "variance": 0.01188722363945578
+    }
+  },
+  {
+    "title": "Simple Love",
+    "author": "HeartWriter",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I think of you both night and day,\nMy love for you won't fade away.\nYour smile brightens all I see,\nYou mean the world to me.\n\nI hold your hand, I feel so strong,\nLike I've been waiting all along.\nTogether we will always stay,\nMy love for you grows every day.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 8,
+      "verb_count": 12,
+      "adj_count": 5,
+      "adv_count": 5,
+      "total_words": 64,
+      "noun_verb_ratio": 0.6666666666666666,
+      "adj_density": 0.078125,
+      "verb_density": 0.1875,
+      "adv_density": 0.078125
+    },
+    "sentiment": {
+      "polarity": 0.2841666666666667,
+      "subjectivity": 0.5441666666666667,
+      "compound": 0.9739,
+      "variance": 0.04466878255208333
+    }
+  },
+  {
+    "title": "Walking in the Rain",
+    "author": "RainWalker",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I walk alone beneath the rain,\nIt taps a soft and steady chain.\nThe puddles form beneath my feet,\nThe sound of drops is calm and sweet.\n\nI do not mind the cloudy sky,\nOr raindrops falling from up high.\nIt clears my thoughts, it feels so free,\nThe rain brings peace inside of me.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 11,
+      "adj_count": 7,
+      "adv_count": 4,
+      "total_words": 64,
+      "noun_verb_ratio": 1.1818181818181819,
+      "adj_density": 0.109375,
+      "verb_density": 0.171875,
+      "adv_density": 0.0625
+    },
+    "sentiment": {
+      "polarity": 0.2680952380952381,
+      "subjectivity": 0.5700000000000001,
+      "compound": 0.8943,
+      "variance": 0.013435416666666668
+    }
+  },
+  {
+    "title": "A Birthday Wish",
+    "author": "PartyDreamer",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I make a wish and blow the flame,\nEach year it feels a bit the same.\nWe laugh and cheer and celebrate,\nThis special day feels truly great.\n\nThe cake is sweet, the smiles are wide,\nMy friends and family by my side.\nAnother year, a brand new start,\nWith hope and joy within my heart.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 19,
+      "verb_count": 6,
+      "adj_count": 7,
+      "adv_count": 1,
+      "total_words": 66,
+      "noun_verb_ratio": 3.1666666666666665,
+      "adj_density": 0.10606060606060606,
+      "verb_density": 0.09090909090909091,
+      "adv_density": 0.015151515151515152
+    },
+    "sentiment": {
+      "polarity": 0.3304383116883117,
+      "subjectivity": 0.40637175324675323,
+      "compound": 0.992,
+      "variance": 0.044933345368105934
+    }
+  },
+  {
+    "title": "My Lazy Cat",
+    "author": "CatNapQueen",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "My cat just sleeps the whole day through,\nThere's not much else she likes to do.\nShe curls up tight and shuts her eyes,\nIgnoring all the world outside.\n\nShe wakes to eat, then sleeps again,\nA lazy life without a plan.\nI watch and laugh, it\u2019s quite a sight,\nShe naps from morning until night.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 12,
+      "verb_count": 12,
+      "adj_count": 6,
+      "adv_count": 6,
+      "total_words": 69,
+      "noun_verb_ratio": 1.0,
+      "adj_density": 0.08695652173913043,
+      "verb_density": 0.17391304347826086,
+      "adv_density": 0.08695652173913043
+    },
+    "sentiment": {
+      "polarity": -0.004761904761904763,
+      "subjectivity": 0.33928571428571436,
+      "compound": 0.296,
+      "variance": 0.04073580994897959
+    }
+  },
+  {
+    "title": "Dreams at Night",
+    "author": "NightDreamer",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I close my eyes and drift away,\nTo places far from where I stay.\nI see bright stars and skies so wide,\nWith endless worlds I roam inside.\n\nMy dreams are calm, my dreams are deep,\nThey carry me in gentle sleep.\nI wake refreshed when morning's near,\nAnd wish those dreams would reappear.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 12,
+      "adj_count": 9,
+      "adv_count": 4,
+      "total_words": 64,
+      "noun_verb_ratio": 1.0833333333333333,
+      "adj_density": 0.140625,
+      "verb_density": 0.1875,
+      "adv_density": 0.0625
+    },
+    "sentiment": {
+      "polarity": 0.14687500000000003,
+      "subjectivity": 0.6625,
+      "compound": 0.9509,
+      "variance": 0.0009852430555555556
+    }
+  },
+  {
+    "title": "Evening Sunset Glow",
+    "author": "SunsetWatcher",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The sun sinks low beyond the hill,\nThe world grows calm, the air is still.\nThe sky turns shades of pink and gold,\nA sight that never gets too old.\n\nI stand and watch the fading light,\nAs day gives way to gentle night.\nA peaceful end to all I do,\nBeneath a sky of changing hue.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 19,
+      "verb_count": 11,
+      "adj_count": 5,
+      "adv_count": 3,
+      "total_words": 66,
+      "noun_verb_ratio": 1.7272727272727273,
+      "adj_density": 0.07575757575757576,
+      "verb_density": 0.16666666666666666,
+      "adv_density": 0.045454545454545456
+    },
+    "sentiment": {
+      "polarity": 0.13125,
+      "subjectivity": 0.44375,
+      "compound": 0.743,
+      "variance": 0.015468750000000002
+    }
+  },
+  {
+    "title": "A Walk with You",
+    "author": "LoveSteps",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "We walk together hand in hand,\nAcross the park, across the land.\nThe world feels bright when you're with me,\nYou're all I ever want to see.\n\nWe talk and laugh along the way,\nAnd make the most of every day.\nWith you, my heart feels light and free,\nYou're everything I need to be.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 12,
+      "adj_count": 2,
+      "adv_count": 3,
+      "total_words": 68,
+      "noun_verb_ratio": 1.0833333333333333,
+      "adj_density": 0.029411764705882353,
+      "verb_density": 0.17647058823529413,
+      "adv_density": 0.04411764705882353
+    },
+    "sentiment": {
+      "polarity": 0.45999999999999996,
+      "subjectivity": 0.5799999999999998,
+      "compound": 0.967,
+      "variance": 0.06187500000000001
+    }
+  },
+  {
+    "title": "A Bright New Day",
+    "author": "HappyVibes",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The sun comes up, the sky is clear,\nAnother lovely day is here.\nI stretch and smile and start my way,\nExcited for a brand new day.\n\nThe birds all sing, the breeze is light,\nEverything just feels so right.\nI walk outside and feel so free,\nThe day is full of joy for me.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 15,
+      "verb_count": 10,
+      "adj_count": 6,
+      "adv_count": 6,
+      "total_words": 65,
+      "noun_verb_ratio": 1.5,
+      "adj_density": 0.09230769230769231,
+      "verb_density": 0.15384615384615385,
+      "adv_density": 0.09230769230769231
+    },
+    "sentiment": {
+      "polarity": 0.3315525383707202,
+      "subjectivity": 0.4794175521448248,
+      "compound": 0.9604,
+      "variance": 0.0019562923632779564
+    }
+  },
+  {
+    "title": "My Loyal Dog",
+    "author": "PuppyPal",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "My dog is always by my side,\nWith wagging tail and happy stride.\nHe greets me with a joyful bark,\nAnd loves to run around the park.\n\nHe plays with sticks, he loves to run,\nHe makes each day so full of fun.\nI love my dog, he's kind and true,\nThere's no one else I'd rather view.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 13,
+      "adj_count": 4,
+      "adv_count": 3,
+      "total_words": 71,
+      "noun_verb_ratio": 1.0769230769230769,
+      "adj_density": 0.056338028169014086,
+      "verb_density": 0.18309859154929578,
+      "adv_density": 0.04225352112676056
+    },
+    "sentiment": {
+      "polarity": 0.48333333333333334,
+      "subjectivity": 0.65,
+      "compound": 0.984,
+      "variance": 0.08313802083333334
+    }
+  },
+  {
+    "title": "Coffee in the Morning",
+    "author": "MorningBrew",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I make my coffee every day,\nIt helps me start in a good way.\nThe smell is rich, the taste is strong,\nIt keeps me going all day long.\n\nI take a sip and feel awake,\nIt's my routine I never break.\nA simple drink that I adore,\nIt makes me ready to explore.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 12,
+      "adj_count": 6,
+      "adv_count": 4,
+      "total_words": 64,
+      "noun_verb_ratio": 1.0833333333333333,
+      "adj_density": 0.09375,
+      "verb_density": 0.1875,
+      "adv_density": 0.0625
+    },
+    "sentiment": {
+      "polarity": 0.27638888888888885,
+      "subjectivity": 0.5567460317460318,
+      "compound": 0.9552,
+      "variance": 0.07170283564814814
+    }
+  },
+  {
+    "title": "Rainy Thoughts",
+    "author": "CloudyMind",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The rain falls down, the sky is gray,\nIt washes all my thoughts away.\nI sit inside and watch it fall,\nAnd listen to its gentle call.\n\nThe drops tap softly on my roof,\nA calming, steady kind of proof.\nThat even storms will pass on through,\nAnd skies will soon turn bright and blue.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 8,
+      "adj_count": 6,
+      "adv_count": 5,
+      "total_words": 65,
+      "noun_verb_ratio": 1.75,
+      "adj_density": 0.09230769230769231,
+      "verb_density": 0.12307692307692308,
+      "adv_density": 0.07692307692307693
+    },
+    "sentiment": {
+      "polarity": 0.23015873015873017,
+      "subjectivity": 0.5341269841269841,
+      "compound": 0.8176,
+      "variance": 0.0383545524691358
+    }
+  },
+  {
+    "title": "Friendship Forever",
+    "author": "BestieWriter",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "We laugh and share our hopes and dreams,\nOur friendship stronger than it seems.\nThrough every trial, every test,\nI know that you are truly best.\n\nWe stand together, side by side,\nWith nothing ever left to hide.\nA bond that time cannot erase,\nA friendship none can replace.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 9,
+      "adj_count": 1,
+      "adv_count": 5,
+      "total_words": 60,
+      "noun_verb_ratio": 1.5555555555555556,
+      "adj_density": 0.016666666666666666,
+      "verb_density": 0.15,
+      "adv_density": 0.08333333333333333
+    },
+    "sentiment": {
+      "polarity": 0.43333333333333335,
+      "subjectivity": 0.13333333333333333,
+      "compound": 0.9628,
+      "variance": 0.166875
+    }
+  },
+  {
+    "title": "Snowy Evening",
+    "author": "WinterDream",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The snow falls gently through the night,\nIt glows beneath the soft streetlight.\nThe world is quiet, calm, and still,\nThe air is cold upon the hill.\n\nI watch the flakes drift down so slow,\nAnd see the ground begin to glow.\nA peaceful scene, so pure and bright,\nA perfect snowy winter night.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 8,
+      "adj_count": 10,
+      "adv_count": 4,
+      "total_words": 65,
+      "noun_verb_ratio": 1.625,
+      "adj_density": 0.15384615384615385,
+      "verb_density": 0.12307692307692308,
+      "adv_density": 0.06153846153846154
+    },
+    "sentiment": {
+      "polarity": 0.15533910533910536,
+      "subjectivity": 0.6111111111111112,
+      "compound": 0.9367,
+      "variance": 0.08603635942224114
+    }
+  },
+  {
+    "title": "A Simple Wish",
+    "author": "WishfulHeart",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I wish for days that feel just right,\nWith gentle sun and starry night.\nI hope for peace and simple joy,\nFor life to be what I enjoy.\n\nMy wishes float into the sky,\nI watch them drift and wonder why.\nI dream of all that I can be,\nAnd hope my dreams come back to me.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 15,
+      "verb_count": 10,
+      "adj_count": 6,
+      "adv_count": 3,
+      "total_words": 65,
+      "noun_verb_ratio": 1.5,
+      "adj_density": 0.09230769230769231,
+      "verb_density": 0.15384615384615385,
+      "adv_density": 0.046153846153846156
+    },
+    "sentiment": {
+      "polarity": 0.280952380952381,
+      "subjectivity": 0.3988095238095239,
+      "compound": 0.9781,
+      "variance": 0.028915816326530626
+    }
+  },
+  {
+    "title": "Sunset Glow",
+    "author": "EveningLight",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The sun sets low beyond the land,\nPainting colors soft and grand.\nThe sky turns orange, pink, and red,\nA gentle glow above my head.\n\nI watch the light begin to fade,\nAnd think about the day I've made.\nA peaceful end, so calm and slow,\nI love the evening sunset glow.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 9,
+      "adj_count": 12,
+      "adv_count": 0,
+      "total_words": 64,
+      "noun_verb_ratio": 1.5555555555555556,
+      "adj_density": 0.1875,
+      "verb_density": 0.140625,
+      "adv_density": 0.0
+    },
+    "sentiment": {
+      "polarity": 0.15416666666666667,
+      "subjectivity": 0.48333333333333334,
+      "compound": 0.9299,
+      "variance": 0.017685546875000003
+    }
+  },
+  {
+    "title": "A Walk Outside",
+    "author": "NatureSteps",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I take a walk along the street,\nThe air is fresh, the day is sweet.\nThe trees are green, the sky is wide,\nI take each moment in my stride.\n\nI hear the birds, I feel the breeze,\nI walk beneath the swaying trees.\nA simple walk, so calm and free,\nThe perfect place for me to be.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 16,
+      "verb_count": 10,
+      "adj_count": 11,
+      "adv_count": 1,
+      "total_words": 70,
+      "noun_verb_ratio": 1.6,
+      "adj_density": 0.15714285714285714,
+      "verb_density": 0.14285714285714285,
+      "adv_density": 0.014285714285714285
+    },
+    "sentiment": {
+      "polarity": 0.25625,
+      "subjectivity": 0.5946428571428571,
+      "compound": 0.9388,
+      "variance": 0.0546875
+    }
+  },
+  {
+    "title": "Love So True",
+    "author": "HeartSong",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "My love for you is strong and deep,\nA promise that I always keep.\nThrough every smile and every tear,\nI know that you will always be near.\n\nWe share a bond so pure and bright,\nA guiding star in darkest night.\nTogether we will always stay,\nMy love grows stronger every day.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 7,
+      "adj_count": 6,
+      "adv_count": 4,
+      "total_words": 61,
+      "noun_verb_ratio": 1.8571428571428572,
+      "adj_density": 0.09836065573770492,
+      "verb_density": 0.11475409836065574,
+      "adv_density": 0.06557377049180328
+    },
+    "sentiment": {
+      "polarity": 0.34345238095238095,
+      "subjectivity": 0.5166666666666666,
+      "compound": 0.9651,
+      "variance": 0.014206821617535904
+    }
+  },
+  {
+    "title": "A Warm Summer Day",
+    "author": "SunnyJoy",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The sun is shining bright and clear,\nMy favorite time of all the year.\nI feel the warmth upon my face,\nAnd move at such a happy pace.\n\nThe sky is blue, the breeze is light,\nEverything just feels so right.\nI spend my day in simple cheer,\nEnjoying summer while it's here.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 9,
+      "adj_count": 8,
+      "adv_count": 4,
+      "total_words": 63,
+      "noun_verb_ratio": 1.5555555555555556,
+      "adj_density": 0.12698412698412698,
+      "verb_density": 0.14285714285714285,
+      "adv_density": 0.06349206349206349
+    },
+    "sentiment": {
+      "polarity": 0.32857142857142857,
+      "subjectivity": 0.5976190476190475,
+      "compound": 0.9678,
+      "variance": 0.008062287414965988
+    }
+  },
+  {
+    "title": "My Playful Puppy",
+    "author": "DogLover99",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "My puppy runs and jumps around,\nThe happiest dog that can be found.\nHe plays with toys and barks with glee,\nAnd always comes right back to me.\n\nHis tail keeps wagging all day long,\nHe fills my life with joyful song.\nI love him more than words can say,\nHe makes me smile every day.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 9,
+      "adj_count": 7,
+      "adv_count": 3,
+      "total_words": 64,
+      "noun_verb_ratio": 1.4444444444444444,
+      "adj_density": 0.109375,
+      "verb_density": 0.140625,
+      "adv_density": 0.046875
+    },
+    "sentiment": {
+      "polarity": 0.255952380952381,
+      "subjectivity": 0.35595238095238096,
+      "compound": 0.9682,
+      "variance": 0.035366709183673475
+    }
+  },
+  {
+    "title": "Rainy Afternoon",
+    "author": "CozyWriter",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The rain falls down upon the street,\nA steady, calm, and gentle beat.\nI sit inside and watch it pour,\nAnd listen as it hits the floor.\n\nThe sky is gray, the day is slow,\nBut still I find a peaceful glow.\nThe rain may keep me stuck inside,\nBut comfort stays right by my side.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 8,
+      "adj_count": 9,
+      "adv_count": 4,
+      "total_words": 67,
+      "noun_verb_ratio": 1.625,
+      "adj_density": 0.13432835820895522,
+      "verb_density": 0.11940298507462686,
+      "adv_density": 0.05970149253731343
+    },
+    "sentiment": {
+      "polarity": 0.10668934240362811,
+      "subjectivity": 0.5392290249433106,
+      "compound": 0.8248,
+      "variance": 0.015213323176492818
+    }
+  },
+  {
+    "title": "Morning Routine",
+    "author": "DailyLife",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I wake up early, stretch and yawn,\nThen see the light of early dawn.\nI brush my teeth and wash my face,\nAnd start my day at steady pace.\n\nI eat my breakfast, drink my tea,\nAnd plan the day ahead of me.\nA simple start, so calm and neat,\nMy daily life feels quite complete.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 16,
+      "verb_count": 8,
+      "adj_count": 8,
+      "adv_count": 5,
+      "total_words": 67,
+      "noun_verb_ratio": 2.0,
+      "adj_density": 0.11940298507462686,
+      "verb_density": 0.11940298507462686,
+      "adv_density": 0.07462686567164178
+    },
+    "sentiment": {
+      "polarity": 0.14583333333333334,
+      "subjectivity": 0.4133928571428571,
+      "compound": 0.7395,
+      "variance": 0.005833333333333332
+    }
+  },
+  {
+    "title": "A Special Day",
+    "author": "HappyMoments",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "Today is special, bright, and new,\nA day to celebrate with you.\nWe laugh and smile and share our cheer,\nThe happiest moments of the year.\n\nWe eat and talk and have some fun,\nUntil the day is finally done.\nA memory I\u2019ll always keep,\nA joyful day both strong and deep.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 9,
+      "adj_count": 7,
+      "adv_count": 2,
+      "total_words": 64,
+      "noun_verb_ratio": 1.5555555555555556,
+      "adj_density": 0.109375,
+      "verb_density": 0.140625,
+      "adv_density": 0.03125
+    },
+    "sentiment": {
+      "polarity": 0.28075998075998077,
+      "subjectivity": 0.48436748436748445,
+      "compound": 0.9878,
+      "variance": 0.008606578306253632
+    }
+  },
+  {
+    "title": "Snowy Walk",
+    "author": "WinterWalker",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I walk along the snowy ground,\nThe quietest place that can be found.\nThe flakes fall softly from the sky,\nLike little stars that drift nearby.\n\nMy boots leave prints upon the snow,\nA path that only I will know.\nA peaceful walk, so calm and white,\nA gentle winter's pure delight.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 16,
+      "verb_count": 7,
+      "adj_count": 6,
+      "adv_count": 4,
+      "total_words": 62,
+      "noun_verb_ratio": 2.2857142857142856,
+      "adj_density": 0.0967741935483871,
+      "verb_density": 0.11290322580645161,
+      "adv_density": 0.06451612903225806
+    },
+    "sentiment": {
+      "polarity": 0.1095982142857143,
+      "subjectivity": 0.55,
+      "compound": 0.9312,
+      "variance": 0.008387426259566327
+    }
+  },
+  {
+    "title": "A Kind Heart",
+    "author": "KindSoul",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "Be kind to others every day,\nIn every word you choose to say.\nA simple smile, a helping hand,\nCan make a change across the land.\n\nThe world can be a better place,\nWith kindness shown in every space.\nSo give your love and share your light,\nAnd make the future warm and bright.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 17,
+      "verb_count": 9,
+      "adj_count": 3,
+      "adv_count": 1,
+      "total_words": 63,
+      "noun_verb_ratio": 1.8888888888888888,
+      "adj_density": 0.047619047619047616,
+      "verb_density": 0.14285714285714285,
+      "adv_density": 0.015873015873015872
+    },
+    "sentiment": {
+      "polarity": 0.4,
+      "subjectivity": 0.5202380952380953,
+      "compound": 0.9791,
+      "variance": 0.02801875
+    }
+  },
+  {
+    "title": "Evening Breeze",
+    "author": "SoftMoments",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The evening breeze is soft and cool,\nIt makes the day feel calm and full.\nThe sun goes down, the sky turns gray,\nAnd slowly fades the light of day.\n\nI sit outside and breathe it in,\nThe quiet peace beneath my skin.\nA gentle end to all I do,\nThe perfect close to something new.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 16,
+      "verb_count": 9,
+      "adj_count": 8,
+      "adv_count": 2,
+      "total_words": 65,
+      "noun_verb_ratio": 1.7777777777777777,
+      "adj_density": 0.12307692307692308,
+      "verb_density": 0.13846153846153847,
+      "adv_density": 0.03076923076923077
+    },
+    "sentiment": {
+      "polarity": 0.19840067340067338,
+      "subjectivity": 0.5272306397306395,
+      "compound": 0.9287,
+      "variance": 0.03780478527913819
+    }
+  },
+  {
+    "title": "Dream Big",
+    "author": "HopeWriter",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "Dream big and never give up hope,\nYou always have a way to cope.\nNo matter what may come your way,\nJust keep your faith from day to day.\n\nBelieve in all that you can be,\nAnd chase your dreams so wild and free.\nWith every step, you'll find your way,\nAnd reach your goals some future day.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 10,
+      "adj_count": 4,
+      "adv_count": 4,
+      "total_words": 68,
+      "noun_verb_ratio": 1.3,
+      "adj_density": 0.058823529411764705,
+      "verb_density": 0.14705882352941177,
+      "adv_density": 0.058823529411764705
+    },
+    "sentiment": {
+      "polarity": 0.125,
+      "subjectivity": 0.35625,
+      "compound": 0.8264,
+      "variance": 0.01171875
+    }
+  },
+  {
+    "title": "Holding Hands",
+    "author": "LovePoems4U",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "We walk together, hand in hand,\nAcross the beach, across the sand.\nThe waves roll in, the sky is blue,\nAnd all I see, my love, is you.\n\nWe talk and laugh along the shore,\nAnd I just love you more and more.\nA simple life, so sweet and true,\nEvery moment spent with you.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 10,
+      "verb_count": 9,
+      "adj_count": 6,
+      "adv_count": 4,
+      "total_words": 69,
+      "noun_verb_ratio": 1.1111111111111112,
+      "adj_density": 0.08695652173913043,
+      "verb_density": 0.13043478260869565,
+      "adv_density": 0.057971014492753624
+    },
+    "sentiment": {
+      "polarity": 0.29,
+      "subjectivity": 0.41571428571428565,
+      "compound": 0.9784,
+      "variance": 0.02671875
+    }
+  },
+  {
+    "title": "Sunny Smile",
+    "author": "HappyDay123",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The sun is shining bright today,\nIt makes me smile in every way.\nI feel the warmth upon my skin,\nAnd let the happiness begin.\n\nThe sky is blue, the clouds are white,\nEverything just feels so right.\nI laugh and walk and feel so free,\nA perfect day for being me.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 11,
+      "adj_count": 6,
+      "adv_count": 4,
+      "total_words": 61,
+      "noun_verb_ratio": 1.2727272727272727,
+      "adj_density": 0.09836065573770492,
+      "verb_density": 0.18032786885245902,
+      "adv_density": 0.06557377049180328
+    },
+    "sentiment": {
+      "polarity": 0.4095238095238095,
+      "subjectivity": 0.40396825396825403,
+      "compound": 0.9752,
+      "variance": 0.050877267573696136
+    }
+  },
+  {
+    "title": "My Sweet Cat",
+    "author": "CatLover101",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "My cat is soft and very small,\nShe loves to chase a tiny ball.\nShe purrs and sleeps upon my bed,\nAnd rests her head beside my head.\n\nShe wakes and stretches in the sun,\nThen plays around and has some fun.\nI love my cat with all my heart,\nI miss her when we are apart.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 12,
+      "verb_count": 11,
+      "adj_count": 4,
+      "adv_count": 4,
+      "total_words": 65,
+      "noun_verb_ratio": 1.0909090909090908,
+      "adj_density": 0.06153846153846154,
+      "verb_density": 0.16923076923076924,
+      "adv_density": 0.06153846153846154
+    },
+    "sentiment": {
+      "polarity": 0.11499999999999999,
+      "subjectivity": 0.434,
+      "compound": 0.9521,
+      "variance": 0.053554687499999996
+    }
+  },
+  {
+    "title": "Rainy Feelings",
+    "author": "RainHeart",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The rain falls down, I feel so sad,\nIt makes the whole day seem so bad.\nThe clouds are gray, the sky is low,\nAnd all my happy thoughts just go.\n\nBut soon the sun will shine again,\nAnd wash away this gloomy rain.\nI wait for skies so bright and blue,\nAnd better days to come back through.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 9,
+      "verb_count": 11,
+      "adj_count": 12,
+      "adv_count": 9,
+      "total_words": 69,
+      "noun_verb_ratio": 0.8181818181818182,
+      "adj_density": 0.17391304347826086,
+      "verb_density": 0.15942028985507245,
+      "adv_density": 0.13043478260869565
+    },
+    "sentiment": {
+      "polarity": 0.08444444444444446,
+      "subjectivity": 0.5055555555555555,
+      "compound": 0.6592,
+      "variance": 0.07280092592592592
+    }
+  },
+  {
+    "title": "Morning Coffee Love",
+    "author": "CoffeeTime",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I love my coffee every day,\nIt wakes me up in every way.\nThe smell is strong, the taste is sweet,\nIt makes my morning feel complete.\n\nI sip it slow, I sip it fast,\nI hope this moment always lasts.\nA simple joy I can't ignore,\nI always come back for one more.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 12,
+      "verb_count": 14,
+      "adj_count": 6,
+      "adv_count": 4,
+      "total_words": 65,
+      "noun_verb_ratio": 0.8571428571428571,
+      "adj_density": 0.09230769230769231,
+      "verb_density": 0.2153846153846154,
+      "adv_density": 0.06153846153846154
+    },
+    "sentiment": {
+      "polarity": 0.2583333333333333,
+      "subjectivity": 0.4440476190476191,
+      "compound": 0.9602,
+      "variance": 0.039723668981481476
+    }
+  },
+  {
+    "title": "Best Day Ever",
+    "author": "JoyWriter",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "Today was fun from start to end,\nI spent it with my closest friend.\nWe laughed and talked and played all day,\nAnd chased our worries far away.\n\nI wish that days could always be,\nAs bright and full of joy for me.\nA perfect time I won't forget,\nThe best day ever I have met.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 10,
+      "verb_count": 13,
+      "adj_count": 6,
+      "adv_count": 6,
+      "total_words": 65,
+      "noun_verb_ratio": 0.7692307692307693,
+      "adj_density": 0.09230769230769231,
+      "verb_density": 0.2,
+      "adv_density": 0.09230769230769231
+    },
+    "sentiment": {
+      "polarity": 0.5388888888888889,
+      "subjectivity": 0.4833333333333333,
+      "compound": 0.9612,
+      "variance": 0.10755208333333334
+    }
+  },
+  {
+    "title": "Snow Day Fun",
+    "author": "SnowJoy",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "The snow is falling soft and white,\nIt makes the world feel calm and bright.\nI build a snowman in the yard,\nAnd laugh and play and run so hard.\n\nMy cheeks turn red, my hands feel cold,\nBut winter fun is worth its gold.\nI love the snow, it makes me cheer,\nMy favorite time of every year.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 19,
+      "verb_count": 10,
+      "adj_count": 6,
+      "adv_count": 2,
+      "total_words": 69,
+      "noun_verb_ratio": 1.9,
+      "adj_density": 0.08695652173913043,
+      "verb_density": 0.14492753623188406,
+      "adv_density": 0.028985507246376812
+    },
+    "sentiment": {
+      "polarity": 0.17569444444444446,
+      "subjectivity": 0.4534722222222222,
+      "compound": 0.9797,
+      "variance": 0.043466796875
+    }
+  },
+  {
+    "title": "Simple Walk",
+    "author": "NatureFan",
+    "year": 2024,
+    "source": "AI Generated - Pedestrian Style",
+    "source_url": "ai_generated",
+    "poem": "I take a walk along the way,\nAnd enjoy this quiet day.\nThe trees are green, the sky is blue,\nThere's nothing else I'd rather do.\n\nI hear the birds, I feel the breeze,\nAnd walk among the swaying trees.\nA simple life, so calm and free,\nThe perfect place for me to be.",
+    "category": "pedestrian",
+    "pos_features": {
+      "noun_count": 15,
+      "verb_count": 10,
+      "adj_count": 8,
+      "adv_count": 2,
+      "total_words": 67,
+      "noun_verb_ratio": 1.5,
+      "adj_density": 0.11940298507462686,
+      "verb_density": 0.14925373134328357,
+      "adv_density": 0.029850746268656716
+    },
+    "sentiment": {
+      "polarity": 0.2375,
+      "subjectivity": 0.5175595238095239,
+      "compound": 0.9254,
+      "variance": 0.04042968750000001
+    }
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "title": "The Hospital Keeps Its Own Weather II",
+    "author": "Elena Marquez",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "The hallway hums in fluorescent dialect,\na language of machines that refuse metaphor.\n\nMy father sleeps beneath a grid of numbers,\neach one a fragile agreement with time.\n\nA nurse adjusts the drip\nas if calibrating hope.\n\nOutside, the parking lot glints\u2014\nordinary sunlight, indifferent.\n\nInside, we count breath like currency,\nspend it carefully,\nwait for interest that never accrues.\n\nSomeone laughs down the corridor.\nIt sounds misplaced,\nlike summer in a sealed room.\n\nWe pretend stability\nis not just another word\nfor delay.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 29,
+      "verb_count": 11,
+      "adj_count": 7,
+      "adv_count": 5,
+      "total_words": 100,
+      "noun_verb_ratio": 2.6363636363636362,
+      "adj_density": 0.07,
+      "verb_density": 0.11,
+      "adv_density": 0.05
+    },
+    "sentiment": {
+      "polarity": -0.11759259259259258,
+      "subjectivity": 0.4231481481481481,
+      "compound": 0.7409,
+      "variance": 0.005961492091049383
+    }
+  },
+  {
+    "title": "Customs Declaration",
+    "author": "Farah Siddiqui",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "At the airport, they ask what I carry.\n\nI want to say: a childhood that no longer translates,\nthe smell of cardamom pressed into memory,\na grandmother\u2019s voice folded into my tongue.\n\nInstead, I check a box: nothing to declare.\n\nThe officer stamps my silence.\n\nBehind me, the line advances\u2014\na procession of edited lives.\n\nI walk forward lighter,\nbut not free.\n\nSome borders remain\nunder the skin,\nunmarked but permanent.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 23,
+      "verb_count": 11,
+      "adj_count": 8,
+      "adv_count": 3,
+      "total_words": 89,
+      "noun_verb_ratio": 2.090909090909091,
+      "adj_density": 0.0898876404494382,
+      "verb_density": 0.12359550561797752,
+      "adv_density": 0.033707865168539325
+    },
+    "sentiment": {
+      "polarity": -0.30000000000000004,
+      "subjectivity": 0.75,
+      "compound": -0.6128,
+      "variance": 0.02122448979591837
+    }
+  },
+  {
+    "title": "Session Notes",
+    "author": "Rachel Kim",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "You say the word anxiety\nas if naming it might shrink it.\n\nI nod,\ntrace the edge of the couch\nlike it\u2019s a shoreline.\n\nWe circle the same memory,\nnever landing\u2014\njust orbiting impact.\n\nYou write something down.\nI wonder if it\u2019s me.\n\nAt the end, you ask how I feel.\n\nI say: unfinished.\n\nYou call that progress.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 12,
+      "verb_count": 15,
+      "adj_count": 7,
+      "adv_count": 2,
+      "total_words": 74,
+      "noun_verb_ratio": 0.8,
+      "adj_density": 0.0945945945945946,
+      "verb_density": 0.20270270270270271,
+      "adv_density": 0.02702702702702703
+    },
+    "sentiment": {
+      "polarity": -0.07777777777777778,
+      "subjectivity": 0.20694444444444446,
+      "compound": 0.5574,
+      "variance": 0.0026466049382716053
+    }
+  },
+  {
+    "title": "After the Bombing, the Market Reopens",
+    "author": "Omar Haddad",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Tomatoes arranged in careful pyramids,\nas if order could resist memory.\n\nA man sweeps glass into a corner,\nsmall constellations of what shattered.\n\nNo one mentions yesterday.\n\nWe buy bread.\nWe ask about prices.\nWe avoid the crater like a bad habit.\n\nWar does not end\u2014\nit just learns to whisper.\n\nEven the fruit carries it:\nbruised beneath the skin,\nstill sold as whole.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 17,
+      "verb_count": 14,
+      "adj_count": 5,
+      "adv_count": 4,
+      "total_words": 76,
+      "noun_verb_ratio": 1.2142857142857142,
+      "adj_density": 0.06578947368421052,
+      "verb_density": 0.18421052631578946,
+      "adv_density": 0.05263157894736842
+    },
+    "sentiment": {
+      "polarity": -0.21249999999999997,
+      "subjectivity": 0.6166666666666666,
+      "compound": -0.8957,
+      "variance": 0.06402343749999999
+    }
+  },
+  {
+    "title": "My Mother Teaches Me to Cook Without Recipes",
+    "author": "Priya Desai",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "She never measures.\n\nA pinch means memory.\nA handful means trust.\n\nI ask how she knows when it\u2019s right.\nShe says: you listen.\n\nTo what?\n\nTo what it reminds you of.\n\nThe kitchen fills with something unnamed\u2014\nnot just spice,\nbut continuity.\n\nI realize then:\nthis is how we survive\nwhat history tries to erase.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 10,
+      "verb_count": 16,
+      "adj_count": 2,
+      "adv_count": 5,
+      "total_words": 69,
+      "noun_verb_ratio": 0.625,
+      "adj_density": 0.028985507246376812,
+      "verb_density": 0.2318840579710145,
+      "adv_density": 0.07246376811594203
+    },
+    "sentiment": {
+      "polarity": 0.09285714285714285,
+      "subjectivity": 0.46785714285714286,
+      "compound": 0.2846,
+      "variance": 0.009755605946082137
+    }
+  },
+  {
+    "title": "Grief Has No Edges",
+    "author": "Jonah Stein",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "It doesn\u2019t arrive cleanly.\n\nNo beginning,\nno ending\u2014\njust expansion.\n\nI find it in small places:\nthe empty chair,\nthe untouched cup.\n\nIt refuses containment.\n\nEven joy leaks into it,\nchanges flavor.\n\nI keep expecting boundaries.\n\nThere are none.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 7,
+      "adj_count": 7,
+      "adv_count": 3,
+      "total_words": 52,
+      "noun_verb_ratio": 1.8571428571428572,
+      "adj_density": 0.1346153846153846,
+      "verb_density": 0.1346153846153846,
+      "adv_density": 0.057692307692307696
+    },
+    "sentiment": {
+      "polarity": 0.06666666666666668,
+      "subjectivity": 0.45,
+      "compound": 0.3995,
+      "variance": 0.09494047619047621
+    }
+  },
+  {
+    "title": "Fragment / Self",
+    "author": "Leila Haddad",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "I.\nA name given\nbefore understanding.\n\nII.\nA body negotiating mirrors.\n\nIII.\nA language that shifts\nmid-sentence.\n\nIV.\nA question\npretending to be whole.\n\nV.\nStill assembling.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 12,
+      "verb_count": 6,
+      "adj_count": 1,
+      "adv_count": 1,
+      "total_words": 35,
+      "noun_verb_ratio": 2.0,
+      "adj_density": 0.02857142857142857,
+      "verb_density": 0.17142857142857143,
+      "adv_density": 0.02857142857142857
+    },
+    "sentiment": {
+      "polarity": 0.2,
+      "subjectivity": 0.4,
+      "compound": 0.1027,
+      "variance": 0.003950617283950618
+    }
+  },
+  {
+    "title": "On the Question of Being",
+    "author": "Ethan Clarke",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "If existence requires witness,\nwhat happens in solitude?\n\nDoes the self persist\nwithout reflection,\nor does it dissolve\ninto possibility?\n\nI sit in a room\nwith no mirrors,\nno language,\nno one to confirm.\n\nStill,\nsomething remains.\n\nBut I cannot prove it.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 7,
+      "adj_count": 2,
+      "adv_count": 2,
+      "total_words": 53,
+      "noun_verb_ratio": 2.0,
+      "adj_density": 0.03773584905660377,
+      "verb_density": 0.1320754716981132,
+      "adv_density": 0.03773584905660377
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "compound": 0.165,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "The Forest Teaches Subtraction",
+    "author": "Hannah Wu",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Leaves fall without ceremony.\n\nThe tree does not mourn them.\n\nIt understands\nwhat must be released\nfor survival.\n\nI walk beneath this lesson,\ncarrying too much.\n\nEven the ground\nknows how to let go.\n\nI am still learning.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 8,
+      "verb_count": 13,
+      "adj_count": 1,
+      "adv_count": 4,
+      "total_words": 45,
+      "noun_verb_ratio": 0.6153846153846154,
+      "adj_density": 0.022222222222222223,
+      "verb_density": 0.28888888888888886,
+      "adv_density": 0.08888888888888889
+    },
+    "sentiment": {
+      "polarity": 0.2,
+      "subjectivity": 0.2,
+      "compound": 0.3252,
+      "variance": 0.005555555555555557
+    }
+  },
+  {
+    "title": "Passport Photo",
+    "author": "Miguel Alvarez",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Neutral expression.\nNo smiling.\nNo history visible.\n\nI sit under fluorescent judgment,\ncompressing identity\ninto two inches.\n\nThey want clarity.\nThey get approximation.\n\nThis face has crossed too much\nto be simplified.\n\nStill,\nthe camera insists.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 10,
+      "verb_count": 9,
+      "adj_count": 5,
+      "adv_count": 2,
+      "total_words": 46,
+      "noun_verb_ratio": 1.1111111111111112,
+      "adj_density": 0.10869565217391304,
+      "verb_density": 0.1956521739130435,
+      "adv_density": 0.043478260869565216
+    },
+    "sentiment": {
+      "polarity": 0.2,
+      "subjectivity": 0.2,
+      "compound": 0.3417,
+      "variance": 0.004375000000000001
+    }
+  },
+  {
+    "title": "Code Blue, Room 417",
+    "author": "Daniel Cho",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "The announcement fractures the hallway\u2014\ncode blue, as if language could soften urgency.\n\nShoes strike tile in practiced panic.\nA curtain snaps closed.\n\nInside, the body becomes negotiation:\nhands pressing time back into a chest,\na machine insisting on rhythm.\n\nOutside, we pretend not to listen.\nWe study our phones,\nthe scuffed floor,\nanything but mortality rehearsing nearby.\n\nWhen it ends\u2014\nwhatever ending means\u2014\nthe hallway resumes.\n\nBut something lingers,\nlike a question\nno one is trained to answer.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 28,
+      "verb_count": 16,
+      "adj_count": 3,
+      "adv_count": 4,
+      "total_words": 95,
+      "noun_verb_ratio": 1.75,
+      "adj_density": 0.031578947368421054,
+      "verb_density": 0.16842105263157894,
+      "adv_density": 0.042105263157894736
+    },
+    "sentiment": {
+      "polarity": -0.025,
+      "subjectivity": 0.0625,
+      "compound": -0.2846,
+      "variance": 0.0010937500000000003
+    }
+  },
+  {
+    "title": "My Name Mispronounced at Roll Call",
+    "author": "Sana Rahman",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Each syllable bent,\nas if my name were negotiable.\n\nI raise my hand anyway.\nPresent.\n\nThe classroom learns me incorrectly.\nI allow it\u2014\na small surrender repeated daily.\n\nLater, at home,\nmy mother says it whole,\nlike a prayer restored.\n\nI realize then:\nidentity fractures quietly,\nnot in violence,\nbut in permission.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 12,
+      "verb_count": 11,
+      "adj_count": 6,
+      "adv_count": 7,
+      "total_words": 66,
+      "noun_verb_ratio": 1.0909090909090908,
+      "adj_density": 0.09090909090909091,
+      "verb_density": 0.16666666666666666,
+      "adv_density": 0.10606060606060606
+    },
+    "sentiment": {
+      "polarity": -0.008333333333333331,
+      "subjectivity": 0.18888888888888888,
+      "compound": 0.7308,
+      "variance": 0.0036479591836734693
+    }
+  },
+  {
+    "title": "Instructions for Breathing During Panic",
+    "author": "Lucas Bennett",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Step 1: Notice the air.\n\nStep 2: Convince your body\nit is not drowning.\n\nStep 3: Fail.\n\nThe chest tightens\nlike a locked room.\n\nYou count\u2014\nnot numbers,\nbut exits.\n\nThe therapist says:\nyou are safe.\n\nYour body disagrees.\n\nEventually,\nthe wave recedes\nwithout apology.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 17,
+      "verb_count": 6,
+      "adj_count": 3,
+      "adv_count": 3,
+      "total_words": 59,
+      "noun_verb_ratio": 2.8333333333333335,
+      "adj_density": 0.05084745762711865,
+      "verb_density": 0.1016949152542373,
+      "adv_density": 0.05084745762711865
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.4,
+      "compound": 0.1724,
+      "variance": 0.0625
+    }
+  },
+  {
+    "title": "Ceasefire",
+    "author": "Omar Haddad",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "They call it ceasefire\nas if silence were peace.\n\nThe buildings remain broken,\nthe windows still remembering impact.\n\nChildren return to the street\nwith cautious laughter,\ntesting the air.\n\nNothing has ended.\n\nIt has only paused\u2014\nviolence holding its breath,\nwaiting for permission to resume.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 12,
+      "adj_count": 3,
+      "adv_count": 2,
+      "total_words": 53,
+      "noun_verb_ratio": 1.1666666666666667,
+      "adj_density": 0.05660377358490566,
+      "verb_density": 0.22641509433962265,
+      "adv_density": 0.03773584905660377
+    },
+    "sentiment": {
+      "polarity": -0.2,
+      "subjectivity": 0.7,
+      "compound": -0.2263,
+      "variance": 0.0256
+    }
+  },
+  {
+    "title": "My Grandmother\u2019s Hands",
+    "author": "Ana Rodriguez",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "They move without hesitation,\nremembering what the mind forgets.\n\nDough folds into itself,\npatient as tradition.\n\nShe does not measure.\nShe knows.\n\nI try to imitate,\nbut my hands lack history.\n\nSome knowledge\ncannot be written\u2014\nonly inherited.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 11,
+      "verb_count": 10,
+      "adj_count": 1,
+      "adv_count": 3,
+      "total_words": 48,
+      "noun_verb_ratio": 1.1,
+      "adj_density": 0.020833333333333332,
+      "verb_density": 0.20833333333333334,
+      "adv_density": 0.0625
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 1.0,
+      "compound": -0.3701,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "After the Funeral",
+    "author": "Jonah Stein",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "We return to ordinary tasks\u2014\nwashing dishes,\nanswering messages.\n\nGrief waits politely\nin the background.\n\nIt does not interrupt.\n\nLater, alone,\nit expands to fill the room.\n\nI realize then:\nloss is not an event.\n\nIt is a condition.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 10,
+      "verb_count": 10,
+      "adj_count": 2,
+      "adv_count": 6,
+      "total_words": 49,
+      "noun_verb_ratio": 1.0,
+      "adj_density": 0.04081632653061224,
+      "verb_density": 0.20408163265306123,
+      "adv_density": 0.12244897959183673
+    },
+    "sentiment": {
+      "polarity": -0.35000000000000003,
+      "subjectivity": 0.2333333333333333,
+      "compound": -0.3235,
+      "variance": 0.08645833333333335
+    }
+  },
+  {
+    "title": "Experiment: Identity Without Language",
+    "author": "Leila Haddad",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "[Remove all names]\n[Remove all categories]\n\nWhat remains?\n\nA body\nmoving through space.\n\nA set of reactions.\n\nA pulse.\n\nConclusion:\nidentity persists\nbut becomes unrecognizable.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 11,
+      "verb_count": 7,
+      "adj_count": 2,
+      "adv_count": 0,
+      "total_words": 35,
+      "noun_verb_ratio": 1.5714285714285714,
+      "adj_density": 0.05714285714285714,
+      "verb_density": 0.2,
+      "adv_density": 0.0
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "compound": 0.0,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "On Being Observed",
+    "author": "Ethan Clarke",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "If a self exists alone,\nis it complete?\n\nOr does it require\nanother\u2019s gaze\nto stabilize?\n\nI perform myself\nin reflections\u2014\nmirrors,\nwindows,\neyes.\n\nWithout them,\nI flicker.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 9,
+      "verb_count": 6,
+      "adj_count": 3,
+      "adv_count": 1,
+      "total_words": 38,
+      "noun_verb_ratio": 1.5,
+      "adj_density": 0.07894736842105263,
+      "verb_density": 0.15789473684210525,
+      "adv_density": 0.02631578947368421
+    },
+    "sentiment": {
+      "polarity": 0.1,
+      "subjectivity": 0.4,
+      "compound": -0.3313,
+      "variance": 0.0018750000000000008
+    }
+  },
+  {
+    "title": "The Ocean Refuses Containment",
+    "author": "Hannah Wu",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "You draw a line on a map\nand call it shore.\n\nThe ocean disagrees.\n\nIt moves,\nerases,\nreturns.\n\nI stand at the edge,\nwatching boundaries fail.\n\nSome things\ncannot be held\nin definition.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 9,
+      "verb_count": 9,
+      "adj_count": 1,
+      "adv_count": 2,
+      "total_words": 42,
+      "noun_verb_ratio": 1.0,
+      "adj_density": 0.023809523809523808,
+      "verb_density": 0.21428571428571427,
+      "adv_density": 0.047619047619047616
+    },
+    "sentiment": {
+      "polarity": -0.5,
+      "subjectivity": 0.3,
+      "compound": -0.7003,
+      "variance": 0.04000000000000001
+    }
+  },
+  {
+    "title": "Visa Expiration Date",
+    "author": "Miguel Alvarez",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "My life reduced\nto a printed deadline.\n\nI exist legally\nuntil I do not.\n\nTime becomes external,\nmeasured in permissions.\n\nI check the date\nmore often than my reflection.\n\nIdentity,\ntemporary.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 8,
+      "verb_count": 7,
+      "adj_count": 4,
+      "adv_count": 4,
+      "total_words": 38,
+      "noun_verb_ratio": 1.1428571428571428,
+      "adj_density": 0.10526315789473684,
+      "verb_density": 0.18421052631578946,
+      "adv_density": 0.10526315789473684
+    },
+    "sentiment": {
+      "polarity": 0.2333333333333333,
+      "subjectivity": 0.26666666666666666,
+      "compound": 0.1027,
+      "variance": 0.038400000000000004
+    }
+  },
+  {
+    "title": "Radiology Waiting Room",
+    "author": "Marta Velasquez",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "We sit in borrowed stillness,\nholding forms like fragile agreements.\n\nThe television murmurs weather forecasts\nno one believes in.\n\nInside the machine,\nsomeone becomes image\u2014\nreduced to shadows,\ncontrasts,\ninterpretation.\n\nA technician calls a name.\nAnother body enters uncertainty.\n\nWe avoid each other\u2019s eyes,\nas if diagnosis were contagious.\n\nTime here does not pass.\nIt accumulates.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 17,
+      "verb_count": 15,
+      "adj_count": 6,
+      "adv_count": 3,
+      "total_words": 71,
+      "noun_verb_ratio": 1.1333333333333333,
+      "adj_density": 0.08450704225352113,
+      "verb_density": 0.2112676056338028,
+      "adv_density": 0.04225352112676056
+    },
+    "sentiment": {
+      "polarity": -0.0625,
+      "subjectivity": 0.4375,
+      "compound": -0.5574,
+      "variance": 0.001708984375
+    }
+  },
+  {
+    "title": "Accent",
+    "author": "Julian Park",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "They say I have one\nas if it were optional.\n\nI try to smooth the edges,\nfile down the sound of origin.\n\nStill, certain words betray me\u2014\nvowels shaped by elsewhere.\n\nAt home,\nI let the language return whole,\nfull-bodied,\nunapologetic.\n\nBetween these two versions,\nI exist\npartially translated.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 9,
+      "adj_count": 8,
+      "adv_count": 3,
+      "total_words": 60,
+      "noun_verb_ratio": 1.4444444444444444,
+      "adj_density": 0.13333333333333333,
+      "verb_density": 0.15,
+      "adv_density": 0.05
+    },
+    "sentiment": {
+      "polarity": 0.12267573696145126,
+      "subjectivity": 0.4371882086167801,
+      "compound": -0.4767,
+      "variance": 0.015164065955600348
+    }
+  },
+  {
+    "title": "The Body During Insomnia",
+    "author": "Claire Donovan",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Night stretches beyond intention.\n\nThe clock insists on movement,\nbut the body refuses rest.\n\nThought loops\u2014\nan argument without resolution.\n\nEven silence becomes loud.\n\nI catalog each breath,\neach shift,\neach failure to surrender.\n\nMorning will arrive anyway.\n\nIt always does,\nindifferent to readiness.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 10,
+      "adj_count": 2,
+      "adv_count": 3,
+      "total_words": 55,
+      "noun_verb_ratio": 1.4,
+      "adj_density": 0.03636363636363636,
+      "verb_density": 0.18181818181818182,
+      "adv_density": 0.05454545454545454
+    },
+    "sentiment": {
+      "polarity": -0.10833333333333332,
+      "subjectivity": 0.55,
+      "compound": -0.8126,
+      "variance": 0.01479591836734694
+    }
+  },
+  {
+    "title": "Aftermath, Domestic",
+    "author": "Rami Khalil",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "The war leaves quietly.\n\nA plate still chipped.\nA wall slightly uneven.\n\nWe repair what we can name.\n\nBut the air\u2014\n\nThe air remembers everything.\n\nIt thickens in certain rooms,\npauses at thresholds.\n\nWe open windows\nthat do not clear it.\n\nSome damage\nrefuses visibility.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 8,
+      "adj_count": 2,
+      "adv_count": 5,
+      "total_words": 54,
+      "noun_verb_ratio": 1.625,
+      "adj_density": 0.037037037037037035,
+      "verb_density": 0.14814814814814814,
+      "adv_density": 0.09259259259259259
+    },
+    "sentiment": {
+      "polarity": -0.007142857142857147,
+      "subjectivity": 0.39761904761904765,
+      "compound": -0.783,
+      "variance": 0.010816127232142855
+    }
+  },
+  {
+    "title": "Recipe for Remembering",
+    "author": "Amara Singh",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Begin with something inherited.\n\nAdd heat\u2014\nnot too much,\njust enough to release what was hidden.\n\nStir continuously.\nDo not leave unattended.\n\nWhen it begins to change,\ndo not panic.\n\nThis is how memory works:\ntransforming without asking.\n\nServe while still recognizable.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 5,
+      "verb_count": 15,
+      "adj_count": 4,
+      "adv_count": 8,
+      "total_words": 52,
+      "noun_verb_ratio": 0.3333333333333333,
+      "adj_density": 0.07692307692307693,
+      "verb_density": 0.28846153846153844,
+      "adv_density": 0.15384615384615385
+    },
+    "sentiment": {
+      "polarity": 0.07083333333333333,
+      "subjectivity": 0.3208333333333333,
+      "compound": 0.431,
+      "variance": 0.00755479969765684
+    }
+  },
+  {
+    "title": "The Day After Loss",
+    "author": "Evan Pierce",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Nothing marks it.\n\nThe same light enters the room.\nThe same sounds persist.\n\nOnly the absence shifts\u2014\nmore defined,\nmore present.\n\nI reach for what is no longer there\nout of habit.\n\nThe body learns slowly.\n\nGrief does not announce itself.\n\nIt integrates.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 11,
+      "verb_count": 7,
+      "adj_count": 5,
+      "adv_count": 6,
+      "total_words": 52,
+      "noun_verb_ratio": 1.5714285714285714,
+      "adj_density": 0.09615384615384616,
+      "verb_density": 0.1346153846153846,
+      "adv_density": 0.11538461538461539
+    },
+    "sentiment": {
+      "polarity": 0.06527777777777777,
+      "subjectivity": 0.35000000000000003,
+      "compound": -0.617,
+      "variance": 0.09341474609375001
+    }
+  },
+  {
+    "title": "Fragmented Thesis on Selfhood",
+    "author": "Noah Fischer",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "1. The self is unstable.\n\n2. Observation alters identity.\n\n3. Memory is unreliable data.\n\n4. Language introduces distortion.\n\n5. Conclusion:\n   no conclusion possible.\n\nAppendix:\n   still, we proceed\n   as if coherence exists.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 3,
+      "adj_count": 3,
+      "adv_count": 1,
+      "total_words": 40,
+      "noun_verb_ratio": 4.666666666666667,
+      "adj_density": 0.075,
+      "verb_density": 0.075,
+      "adv_density": 0.025
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 1.0,
+      "compound": -0.5719,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "Mirror Without Reflection",
+    "author": "Isabel Romero",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Imagine a mirror\nthat refuses you.\n\nGlass intact,\nlight functioning,\nbut no image returned.\n\nWould you still exist\nin certainty?\n\nOr would identity\nrequire proof?",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 5,
+      "verb_count": 7,
+      "adj_count": 2,
+      "adv_count": 1,
+      "total_words": 31,
+      "noun_verb_ratio": 0.7142857142857143,
+      "adj_density": 0.06451612903225806,
+      "verb_density": 0.22580645161290322,
+      "adv_density": 0.03225806451612903
+    },
+    "sentiment": {
+      "polarity": 0.4,
+      "subjectivity": 0.7,
+      "compound": 0.1179,
+      "variance": 0.030000000000000013
+    }
+  },
+  {
+    "title": "Tide Pools",
+    "author": "Hannah Wu",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Small worlds left behind\nby something larger.\n\nThe ocean withdraws,\nbut not completely.\n\nLife remains\nin pockets,\nadapting.\n\nI study these fragments,\nrecognize the pattern:\n\nwe survive\nin what is left.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 9,
+      "verb_count": 8,
+      "adj_count": 2,
+      "adv_count": 2,
+      "total_words": 39,
+      "noun_verb_ratio": 1.125,
+      "adj_density": 0.05128205128205128,
+      "verb_density": 0.20512820512820512,
+      "adv_density": 0.05128205128205128
+    },
+    "sentiment": {
+      "polarity": -0.11666666666666668,
+      "subjectivity": 0.3333333333333333,
+      "compound": 0.0,
+      "variance": 0.004404296875
+    }
+  },
+  {
+    "title": "Checkpoint",
+    "author": "Omar Haddad",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Stop.\n\nWait.\n\nExplain yourself.\n\nThe questions are always the same,\nonly the answers change.\n\nI present documents.\nThey present doubt.\n\nBetween us,\nan invisible line\nholds all the power.\n\nI cross eventually.\n\nBut not unchanged.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 9,
+      "verb_count": 5,
+      "adj_count": 6,
+      "adv_count": 4,
+      "total_words": 46,
+      "noun_verb_ratio": 1.8,
+      "adj_density": 0.13043478260869565,
+      "verb_density": 0.10869565217391304,
+      "adv_density": 0.08695652173913043
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.225,
+      "compound": -0.3291,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "Oncology Ward, 6 A.M.",
+    "author": "Marisol Vega",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Morning arrives without permission.\n\nA cart rattles past\u2014\npills sorted into small inevitabilities.\n\nThe woman across the hall\ncounts her breaths aloud,\nas if naming them keeps them present.\n\nI watch sunlight\nhesitate at the window,\nunwilling to enter this negotiation.\n\nWe all wait for results\nthat will redefine us.\n\nEven hope\nfeels clinical here.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 13,
+      "verb_count": 11,
+      "adj_count": 8,
+      "adv_count": 2,
+      "total_words": 63,
+      "noun_verb_ratio": 1.1818181818181819,
+      "adj_density": 0.12698412698412698,
+      "verb_density": 0.1746031746031746,
+      "adv_density": 0.031746031746031744
+    },
+    "sentiment": {
+      "polarity": -0.125,
+      "subjectivity": 0.2,
+      "compound": 0.2023,
+      "variance": 0.008680555555555558
+    }
+  },
+  {
+    "title": "Dual Citizenship",
+    "author": "Adil Khan",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Two passports.\nTwo versions of belonging.\n\nIn one place,\nI am from somewhere else.\n\nIn the other,\nI have already left.\n\nCustoms asks where I live.\n\nI hesitate\u2014\nchoose an answer\nthat feels least incorrect.\n\nHome becomes\nan administrative decision.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 8,
+      "verb_count": 11,
+      "adj_count": 6,
+      "adv_count": 3,
+      "total_words": 49,
+      "noun_verb_ratio": 0.7272727272727273,
+      "adj_density": 0.12244897959183673,
+      "verb_density": 0.22448979591836735,
+      "adv_density": 0.061224489795918366
+    },
+    "sentiment": {
+      "polarity": -0.07215909090909091,
+      "subjectivity": 0.31875,
+      "compound": 0.0,
+      "variance": 0.015027987434643278
+    }
+  },
+  {
+    "title": "The Therapist Mentions Patterns",
+    "author": "Eliza Grant",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "You say it like a discovery\u2014\nas if repetition were accidental.\n\nI nod,\nrecognizing the shape of it:\n\nsame fear,\ndifferent context.\n\nWe map my history\nlike a recurring storm.\n\nYou ask what breaks the cycle.\n\nI say:\nI don't know where it begins.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 11,
+      "verb_count": 11,
+      "adj_count": 4,
+      "adv_count": 1,
+      "total_words": 54,
+      "noun_verb_ratio": 1.0,
+      "adj_density": 0.07407407407407407,
+      "verb_density": 0.2037037037037037,
+      "adv_density": 0.018518518518518517
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.3625,
+      "compound": 0.128,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "The Sound After Shelling",
+    "author": "Rami Khalil",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Not silence\u2014\n\nsomething heavier.\n\nAir thick with what just happened.\n\nA dog barks\nthen stops,\nas if remembering.\n\nWe listen\nfor what might follow.\n\nNothing comes.\n\nThat is the most frightening part.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 8,
+      "verb_count": 6,
+      "adj_count": 2,
+      "adv_count": 5,
+      "total_words": 39,
+      "noun_verb_ratio": 1.3333333333333333,
+      "adj_density": 0.05128205128205128,
+      "verb_density": 0.15384615384615385,
+      "adv_density": 0.1282051282051282
+    },
+    "sentiment": {
+      "polarity": -0.09999999999999999,
+      "subjectivity": 0.6583333333333333,
+      "compound": -0.624,
+      "variance": 0.012500000000000002
+    }
+  },
+  {
+    "title": "Spice Drawer Inventory",
+    "author": "Priya Desai",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Turmeric\u2014\nstains everything it touches.\n\nCumin\u2014\nearth held in powder.\n\nCardamom\u2014\nsomething almost sweet.\n\nEach jar\nlabeled in my mother\u2019s handwriting.\n\nI open them carefully,\nrelease small histories.\n\nCooking becomes\nan act of remembering\nwhat cannot be written down.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 12,
+      "verb_count": 11,
+      "adj_count": 5,
+      "adv_count": 3,
+      "total_words": 49,
+      "noun_verb_ratio": 1.0909090909090908,
+      "adj_density": 0.10204081632653061,
+      "verb_density": 0.22448979591836735,
+      "adv_density": 0.061224489795918366
+    },
+    "sentiment": {
+      "polarity": -0.031111111111111117,
+      "subjectivity": 0.5677777777777777,
+      "compound": 0.4951,
+      "variance": 0.02655006858710562
+    }
+  },
+  {
+    "title": "Condolences",
+    "author": "Jonah Stein",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "People say I\u2019m sorry\nlike it completes a sentence.\n\nI nod,\naccept the offering.\n\nWhat else is there?\n\nLanguage fails\nat the scale of absence.\n\nStill,\nwe repeat it\u2014\nritual over meaning.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 10,
+      "verb_count": 6,
+      "adj_count": 4,
+      "adv_count": 3,
+      "total_words": 41,
+      "noun_verb_ratio": 1.6666666666666667,
+      "adj_density": 0.0975609756097561,
+      "verb_density": 0.14634146341463414,
+      "adv_density": 0.07317073170731707
+    },
+    "sentiment": {
+      "polarity": -0.33749999999999997,
+      "subjectivity": 0.43333333333333335,
+      "compound": 0.3182,
+      "variance": 0.04025625000000001
+    }
+  },
+  {
+    "title": "Notes Toward a Definition of Self",
+    "author": "Ethan Clarke",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "The self is:\n\nnot fixed\n\nnot singular\n\nnot fully knowable\n\nThe self is also:\n\npersistent\n\ncontradictory\n\nunfinished\n\nConclusion:\nworking draft.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 6,
+      "verb_count": 4,
+      "adj_count": 3,
+      "adv_count": 5,
+      "total_words": 24,
+      "noun_verb_ratio": 1.5,
+      "adj_density": 0.125,
+      "verb_density": 0.16666666666666666,
+      "adv_density": 0.20833333333333334
+    },
+    "sentiment": {
+      "polarity": -0.05,
+      "subjectivity": 0.2,
+      "compound": -0.34,
+      "variance": 0
+    }
+  },
+  {
+    "title": "The River in Winter",
+    "author": "Hannah Wu",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Surface frozen.\n\nMovement continues below.\n\nFrom above,\nstillness.\n\nFrom within,\ncurrent.\n\nI think of the ways\nwe appear unchanged\nwhile everything shifts\nout of sight.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 9,
+      "verb_count": 2,
+      "adj_count": 3,
+      "adv_count": 0,
+      "total_words": 32,
+      "noun_verb_ratio": 4.5,
+      "adj_density": 0.09375,
+      "verb_density": 0.0625,
+      "adv_density": 0.0
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.25,
+      "compound": 0.0,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "Philosophy Lecture, Half-Empty Room",
+    "author": "Noah Fischer",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "The professor asks\nwhat it means to exist.\n\nA student checks their phone.\n\nAnother stares at the desk\nas if the answer might appear there.\n\nI consider raising my hand,\nbut the question feels larger\nthan speech.\n\nThe bell rings.\n\nWe leave\nwithout resolution.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 14,
+      "verb_count": 8,
+      "adj_count": 1,
+      "adv_count": 1,
+      "total_words": 51,
+      "noun_verb_ratio": 1.75,
+      "adj_density": 0.0196078431372549,
+      "verb_density": 0.1568627450980392,
+      "adv_density": 0.0196078431372549
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.5,
+      "compound": 0.2023,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "Name Change Form",
+    "author": "Miguel Alvarez",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Print clearly.\n\nUse black ink.\n\nDo not erase.\n\nI write a version of myself\nthat fits the space provided.\n\nThe old name lingers\nin muscle memory.\n\nThe new one\nfeels provisional.\n\nIdentity,\nsubmitted for approval.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 11,
+      "verb_count": 8,
+      "adj_count": 4,
+      "adv_count": 2,
+      "total_words": 43,
+      "noun_verb_ratio": 1.375,
+      "adj_density": 0.09302325581395349,
+      "verb_density": 0.18604651162790697,
+      "adv_density": 0.046511627906976744
+    },
+    "sentiment": {
+      "polarity": 0.04242424242424242,
+      "subjectivity": 0.3678030303030303,
+      "compound": 0.7003,
+      "variance": 0.008894136166863438
+    }
+  },
+  {
+    "title": "ICU Night Log",
+    "author": "Samuel Ortega",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "02:13 \u2014 machine alarm\n02:14 \u2014 nurse enters\n02:16 \u2014 adjustment made\n\nTime recorded in fragments.\n\nNo one writes:\nfear present,\nhope unstable.\n\nThe chart remains clinical.\n\nThe body does not.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 12,
+      "verb_count": 5,
+      "adj_count": 6,
+      "adv_count": 1,
+      "total_words": 37,
+      "noun_verb_ratio": 2.4,
+      "adj_density": 0.16216216216216217,
+      "verb_density": 0.13513513513513514,
+      "adv_density": 0.02702702702702703
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "compound": -0.7506,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "Language Barrier",
+    "author": "Mei Lin Zhou",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "We stand across from each other\nwith words that refuse passage.\n\nI gesture.\nYou repeat.\n\nMeaning hovers between us,\nunclaimed.\n\nWe both nod\u2014\napproximation accepted.\n\nUnderstanding,\nincomplete but functional.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 6,
+      "verb_count": 5,
+      "adj_count": 6,
+      "adv_count": 0,
+      "total_words": 37,
+      "noun_verb_ratio": 1.2,
+      "adj_density": 0.16216216216216217,
+      "verb_density": 0.13513513513513514,
+      "adv_density": 0.0
+    },
+    "sentiment": {
+      "polarity": -0.125,
+      "subjectivity": 0.375,
+      "compound": -0.0129,
+      "variance": 0.0021701388888888894
+    }
+  },
+  {
+    "title": "Medication Side Effects",
+    "author": "Claire Donovan",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Drowsiness.\nDizziness.\nDry mouth.\n\nThe list continues,\nlonger than relief.\n\nI take it anyway.\n\nSome cures\nrequire negotiation.\n\nI trade clarity\nfor quiet.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 10,
+      "verb_count": 3,
+      "adj_count": 4,
+      "adv_count": 1,
+      "total_words": 31,
+      "noun_verb_ratio": 3.3333333333333335,
+      "adj_density": 0.12903225806451613,
+      "verb_density": 0.0967741935483871,
+      "adv_density": 0.03225806451612903
+    },
+    "sentiment": {
+      "polarity": -0.033333333333333326,
+      "subjectivity": 0.4666666666666667,
+      "compound": 0.7003,
+      "variance": 0.0005442176870748298
+    }
+  },
+  {
+    "title": "After the Siren Stops",
+    "author": "Rami Khalil",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Silence returns\nlike nothing happened.\n\nBut we remain alert,\nbodies unwilling to trust it.\n\nThe absence of sound\nis not peace.\n\nIt is waiting.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 7,
+      "verb_count": 7,
+      "adj_count": 1,
+      "adv_count": 1,
+      "total_words": 29,
+      "noun_verb_ratio": 1.0,
+      "adj_density": 0.034482758620689655,
+      "verb_density": 0.2413793103448276,
+      "adv_density": 0.034482758620689655
+    },
+    "sentiment": {
+      "polarity": 0.19375,
+      "subjectivity": 0.2,
+      "compound": 0.6399,
+      "variance": 0.0070385742187500005
+    }
+  },
+  {
+    "title": "Family Table, Missing Chair",
+    "author": "Ana Rodriguez",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "We set the table anyway.\n\nHabit outweighs accuracy.\n\nA space remains\u2014\nnot acknowledged,\nbut present.\n\nWe pass dishes,\navoid looking directly at it.\n\nAbsence takes a seat\nwithout invitation.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 9,
+      "verb_count": 5,
+      "adj_count": 3,
+      "adv_count": 3,
+      "total_words": 36,
+      "noun_verb_ratio": 1.8,
+      "adj_density": 0.08333333333333333,
+      "verb_density": 0.1388888888888889,
+      "adv_density": 0.08333333333333333
+    },
+    "sentiment": {
+      "polarity": -0.00625,
+      "subjectivity": 0.0,
+      "compound": -0.4215,
+      "variance": 0.0017250000000000002
+    }
+  },
+  {
+    "title": "The Problem of Continuity",
+    "author": "Ethan Clarke",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "If the self changes constantly,\nwhat remains the same?\n\nMemory?\nUnreliable.\n\nBody?\nTemporary.\n\nName?\nAssigned.\n\nStill,\nwe insist on identity\nas if it were stable.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 6,
+      "verb_count": 4,
+      "adj_count": 4,
+      "adv_count": 2,
+      "total_words": 35,
+      "noun_verb_ratio": 1.5,
+      "adj_density": 0.11428571428571428,
+      "verb_density": 0.11428571428571428,
+      "adv_density": 0.05714285714285714
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.22916666666666666,
+      "compound": 0.4871,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "Forest Floor",
+    "author": "Hannah Wu",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Decay feeds growth.\n\nWhat falls\nreturns differently.\n\nNothing wasted,\nonly transformed.\n\nI walk carefully,\naware that every step\nis part of the cycle.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 8,
+      "verb_count": 6,
+      "adj_count": 1,
+      "adv_count": 3,
+      "total_words": 29,
+      "noun_verb_ratio": 1.3333333333333333,
+      "adj_density": 0.034482758620689655,
+      "verb_density": 0.20689655172413793,
+      "adv_density": 0.10344827586206896
+    },
+    "sentiment": {
+      "polarity": 0.012499999999999997,
+      "subjectivity": 0.4625,
+      "compound": 0.4639,
+      "variance": 0.016718749999999998
+    }
+  },
+  {
+    "title": "Immigration Form Question 12",
+    "author": "Miguel Alvarez",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "Have you ever\u2014\n\nThe question begins\nbefore I finish reading.\n\nMy history reduced\nto checkboxes.\n\nYes.\nNo.\n\nNeither answer\nfeels sufficient.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 6,
+      "verb_count": 4,
+      "adj_count": 3,
+      "adv_count": 0,
+      "total_words": 26,
+      "noun_verb_ratio": 1.5,
+      "adj_density": 0.11538461538461539,
+      "verb_density": 0.15384615384615385,
+      "adv_density": 0.0
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.0,
+      "compound": 0.4019,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "Therapy Exit",
+    "author": "Rachel Kim",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "The session ends\nmid-thought.\n\nI carry the unfinished sentence\nout into the street.\n\nCars pass.\nPeople move.\n\nNothing reflects\nwhat just shifted.\n\nChange happens quietly.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 8,
+      "verb_count": 7,
+      "adj_count": 2,
+      "adv_count": 2,
+      "total_words": 31,
+      "noun_verb_ratio": 1.1428571428571428,
+      "adj_density": 0.06451612903225806,
+      "verb_density": 0.22580645161290322,
+      "adv_density": 0.06451612903225806
+    },
+    "sentiment": {
+      "polarity": 0.0,
+      "subjectivity": 0.3333333333333333,
+      "compound": 0.0772,
+      "variance": 0.0
+    }
+  },
+  {
+    "title": "Identity, Temporary Housing",
+    "author": "Leila Haddad",
+    "year": 2024,
+    "source": "AI Generated - Pushcart Style",
+    "source_url": "ai_generated",
+    "poem": "I live inside definitions\nthat expire.\n\nEach label\ncomes with conditions.\n\nI renew when necessary,\nadjust when required.\n\nThe self remains\non short-term lease.",
+    "category": "gold_standard",
+    "pos_features": {
+      "noun_count": 7,
+      "verb_count": 5,
+      "adj_count": 4,
+      "adv_count": 1,
+      "total_words": 29,
+      "noun_verb_ratio": 1.4,
+      "adj_density": 0.13793103448275862,
+      "verb_density": 0.1724137931034483,
+      "adv_density": 0.034482758620689655
+    },
+    "sentiment": {
+      "polarity": 0.06818181818181818,
+      "subjectivity": 0.75,
+      "compound": 0.0,
+      "variance": 0.0034865702479338835
+    }
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "pos": {
+    "noun_verb_ratio": 1.5530681540681541,
+    "noun_verb_std": 0.8418954687878635,
+    "adj_density": 0.07933891146383527,
+    "adj_density_std": 0.03945578428812856,
+    "verb_density": 0.17312218922974837,
+    "verb_density_std": 0.049136971071113054
+  },
+  "topics": [
+    "mortality",
+    "human condition",
+    "society",
+    "philosophy",
+    "nature",
+    "relationships"
+  ],
+  "sentiment": {
+    "polarity_mean": -0.01795400089328661,
+    "polarity_std": 0.15468068836710208,
+    "variance_mean": 0.015869190184032465,
+    "variance_std": 0.02465556815976426,
+    "polarity_range": [
+      -0.5,
+      0.4
+    ]
+  },
+  "sample_size": 50
+}
